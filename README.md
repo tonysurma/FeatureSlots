@@ -1,5 +1,5 @@
 # FeatureSlots
-Project to automate Azure Web App Deployments from feature branches or pull requests
+<img src="FeatureSlots.png" width="125" /> Project to automate Azure Web App Deployments from feature branches or pull requests
 
 # License
 MIT License
